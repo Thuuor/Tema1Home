@@ -1,5 +1,5 @@
 package Exercicis
-
+//tema 1 home patrick martinez romero
 import java.io.File
 import java.io.BufferedReader
 import java.io.InputStreamReader
